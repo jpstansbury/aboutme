@@ -1,0 +1,42 @@
+.homeheader{
+    font-weight: bold;
+    color: black;
+    font-size: larger;
+}
+
+.resumeheaders{
+    font-weight: bold;
+    font-size: xx-large;
+    color: black;
+}
+
+.backtotop{
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.caption{
+    text-indent:30px;
+    color: grey;
+    font-size: medium;
+}
+
+.quotes{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: larger;
+    font-style: italic;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: white;
+    
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
